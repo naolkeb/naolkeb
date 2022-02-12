@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Na'ol</h1>
+<h3 align="center">I am a former astrophysicist changing fields to data analytics looking to solve the worlds problems through data</h3>
 
+- 📫 Reach me at : **naolkeb@gmail.com** or send a message on LinkedIn.
+<p align="left">
+<a href="https://www.linkedin.com/in/naol-kebede/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/naol-kebede/" height="30" width="40" /></a>
+</p>
 <!--
 **naolkeb/naolkeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

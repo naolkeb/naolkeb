@@ -3,7 +3,7 @@
 
 - 📫 Reach me at : **naolkeb@gmail.com** or send a message on LinkedIn.
 <p align="left">
-<a href="https://www.linkedin.com/in/naol-kebede/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/naol-kebede/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naol-kebede/" target="blank"><img align="center" src="https://imgur.com/a/G8Zj3Vk" alt="https://www.linkedin.com/in/naol-kebede/" height="30" width="40" /></a>
 </p>
 <!--
 **naolkeb/naolkeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

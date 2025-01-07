@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Na'ol</h1>
-<h3 align="center">I am a former astrophysicist changing fields to data analytics looking to solve the world's problems through data</h3>
+<h3 align="center">I am a data scientist with a unique blend of experience in commercial analytics, machine learning, and sustainability. looking to solve the world's problems through data</h3>
 
 - 📫 Reach me at : **naolkeb@gmail.com** or send a message on LinkedIn.
 <p align="left">
